@@ -146,8 +146,8 @@ debugging:
 
 wand-item: minecraft:wooden_axe
 shell-save-type:
-no-op-permissions: true
+no-op-permissions: false
 debug: false
 show-help-on-first-use: true
 server-side-cui: true
-command-block-support: false
+command-block-support: true

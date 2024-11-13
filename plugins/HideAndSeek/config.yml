@@ -1,1 +1,22 @@
-maps: []
+maps:
+- ==: org.bukkit.Location
+  world: world
+  x: 200.0
+  y: -59.0
+  z: 374.0
+  pitch: 0.0
+  yaw: 0.0
+- ==: org.bukkit.Location
+  world: world
+  x: -76.0
+  y: -60.0
+  z: 5.0
+  pitch: 0.0
+  yaw: 0.0
+- ==: org.bukkit.Location
+  world: world
+  x: 69.0
+  y: -50.0
+  z: 561.0
+  pitch: 0.0
+  yaw: 0.0
